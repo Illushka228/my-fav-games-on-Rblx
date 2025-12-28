@@ -1,0 +1,77 @@
+body
+h1{
+    background-color: #EDBF37;
+    color: white;
+}
+h2{
+    background-color: #EDBF37;
+    color: aliceblue;
+
+}
+h3{
+  background-color: #EDBF37;
+    color: aliceblue;   
+        font-size: 30px;
+}
+h4{
+   background-color: #EDBF37;
+    color: aliceblue;     
+        font-size: 30px;
+}
+.a{
+    background-color: #EDBF37;
+    color: aliceblue;
+}
+h5{
+    background-color: #F08456;
+    color: aliceblue;      
+        font-size: 30px;
+}
+.b{
+    background-color: #EDBF37;
+}
+h6{
+    font-size: 30px;
+    background-color: #F08456;
+}
+.c{
+     background-color: #F08456;
+    color: aliceblue;
+    font-size: 25px;   
+}
+h7{
+    color: white;
+    background-color: #ED8C37;
+    font-size: 30px;
+}
+.e{
+color: rgb(188, 188, 188);
+}
+.f{
+color: green;
+}
+.g{
+color: rgb(81, 81, 214);
+}
+.o{
+color: rgb(123, 39, 203);
+}
+.q{
+color: rgb(212, 181, 0);
+}
+.w{
+color: rgb(190, 0, 0);
+}
+h67{
+    font-size: 30px;
+    background-color: darkred;
+}
+body{
+    background-color: #F2E9AC;
+}
+header{
+    background-color: #EDBF37;
+}
+main{
+    background-color: #F08456;
+}
